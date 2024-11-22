@@ -7,7 +7,7 @@
     SPDX-License-Identifier: MIT
 */
 
-import QtQuick
+import QtQuick 2.15
 import org.kde.kirigami 2 as Kirigami
 
 Rectangle {
